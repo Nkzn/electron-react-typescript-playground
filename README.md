@@ -6,7 +6,7 @@ Easy Playground for TypeScript + React on Electron.
 
 ## Usage
 
-Write React application inside `src` dir.
+Write React application inside `src` dir, and run `npm start`.
 
 If you want to write js, edit `tsconfig.json` as `"allowJs": true`.
 
